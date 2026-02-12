@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for FTP/SFTP-like ingestion intended to pull remote files into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "FTP",
-      "text": "A Subjective data source for FTP. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for FTP/SFTP-like ingestion intended to pull remote files into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_ftp_datasource/icon.svg",
         "alt": "FTP icon"
